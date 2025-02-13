@@ -34,6 +34,3 @@ pip install opencv-python mediapipe pycaw comtypes
 ## Contribuição
 Fique à vontade para contribuir com melhorias ou otimizações. Caso encontre bugs, abra uma issue.
 
-## Licença
-Este projeto está sob a licença MIT.
-
